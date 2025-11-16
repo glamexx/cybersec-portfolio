@@ -1,7 +1,6 @@
-# calories_gui.py — Калькулятор калорий с ОКНОМ
 import tkinter as tk
 
-# База продуктов (на 100г)
+# Пищ.цен. продуктов (на 100г)
 FOOD = {"курица": 165, "рис": 130, "яйцо": 155, "творог": 121, "овсянка": 68}
 
 
@@ -44,5 +43,6 @@ listbox.pack(pady=10)
 
 result_label = tk.Label(root, text="Итого: 0.0 ккал", font=("Arial", 14))
 result_label.pack(pady=10)
+
 
 root.mainloop()
