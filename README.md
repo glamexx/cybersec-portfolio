@@ -17,10 +17,10 @@
 
 | Проект | Описание | Ссылка |
 |--------|----------|--------|
-| **Аудит сайта** | Скан vulnweb.com → 12 уязвимостей | [audit_example.pdf](audit_example.pdf) |
-| **Парсинг Cian** | 2000+ домов → CSV | [cian_parser.py](cian_parser.py) |
-| **Калькулятор калорий** | GUI на Tkinter | [calories_gui.py](calories_gui.py) |
-| **Отчёт Excel** | pandas + график | [budget_report.py](budget_report.py) |
+| **Аудит сайта** | Скан vulnweb.com → 12 уязвимостей | [audit_example.pdf](audit-site/audit_example.pdf) |
+| **Парсинг Cian** | 2000+ домов → CSV | [cian_parser.py](cian-parser/parser.py) |
+| **Калькулятор калорий** | GUI на Tkinter | [calories_gui.py](calories-calculator/calories_gui.py) |
+| **Отчёт Excel** | pandas + график | [budget_report.py](excel-automation/excel_report.py) |
 
 ---
 
